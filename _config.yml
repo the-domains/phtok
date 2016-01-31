@@ -1,6 +1,6 @@
 name: phtok
 favicon: null
-layout_spectrum: 0.23803389980457723
+layout_spectrum: 1
 typography_spectrum: 0.42004428524523973
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.529373697238043
-  lightness: 0.3530419983435422
-  saturation: 0.016253271140158176
-  rhythmicContrast: 0.04583894950337708
+    - '#05060b'
+    - '#1a2053'
+    - '#54629c'
+    - '#39141c'
+    - '#4c2261'
+  brandStrength: 1
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
